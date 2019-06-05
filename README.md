@@ -51,7 +51,7 @@ java -jar nbi21_jma326_virtual_pet.jar
 ## Authors
 
 * **Noel Bisson** - *Core developer (Model and unit tests predominantly)* - [noel-jean-paul](https://github.com/noel-jean-paul)
-* **James MacKay** - *Core developer (View and Controller predominantly)* - []()
+* **James MacKay** - *Core developer (View and Controller predominantly)* - [robtherobot101](https://github.com/robtherobot101)
 
 ## License
 
